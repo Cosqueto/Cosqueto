@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou Gabriel! 👋
 
-<!--
-**Cosqueto582/Cosqueto582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou um entusiasta de Desenvolvimento Front-End em busca de novas oportunidades para crescer e aprender. Apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprender HTML, CSS, JavaScript e aprimorar minhas habilidades em Desenvolvimento Web e sistemas.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias e Ferramentas
+- *Linguagens de Programação:* Python, JavaScript, PHP
+- Linguagens de Marcação: * HTML, CSS,  
+- *Frameworks e Bibliotecas:* React
+- *Ferramentas e Plataformas:* Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Como me encontrar
+- *LinkedIn:* [Gabriel Richard Dias ](https://www.linkedin.com/in/gabrielricharddias)
+- *Email:* [gabsoueu04@gmail.com](mailto:gabsoueu04@gmail.com)
+
+## 🎨 Layout
+
+![devMeme](https://github.com/user-attachments/assets/8bd24bc6-0c7d-4459-9fba-e46ef533157a)
+
+---
+
+Obrigado por visitar meu perfil! 😊
