@@ -1,13 +1,14 @@
 # Olá, eu sou Gabriel! 👋
 
 ## Sobre Mim
-Sou um entusiasta de Desenvolvimento Front-End em busca de novas oportunidades para crescer e aprender. Apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprender HTML, CSS, JavaScript e aprimorar minhas habilidades em Desenvolvimento Web e sistemas.
+Sou um entusiasta de Desenvolvimento Front-End em busca de novas oportunidades para crescer e aprender. Apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprender HTML, CSS, JavaScript e aprimorar minhas habilidades em Desenvolvimento Web e Sistemas.
 
 ## 🛠 Tecnologias e Ferramentas
-- *Linguagens de Programação:* Python, JavaScript, PHP
+- *Linguagens de Programação:* Python, JavaScript, PHP, 
 - Linguagens de Marcação: * HTML, CSS,  
 - *Frameworks e Bibliotecas:* React
 - *Ferramentas e Plataformas:* Git
+- *Banco de Dados: * MySQL, Firebase
 
 
 ## 📫 Como me encontrar
