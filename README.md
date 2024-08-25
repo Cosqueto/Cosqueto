@@ -5,10 +5,10 @@ Sou um entusiasta de Desenvolvimento Front-End em busca de novas oportunidades p
 
 ## 🛠 Tecnologias e Ferramentas
 - *Linguagens de Programação:* Python, JavaScript, PHP, 
-- Linguagens de Marcação: * HTML, CSS,  
+- *Linguagens de Marcação:* HTML, CSS,  
 - *Frameworks e Bibliotecas:* React
 - *Ferramentas e Plataformas:* Git
-- *Banco de Dados: * MySQL, Firebase
+- *Banco de Dados:* MySQL, Firebase
 
 
 ## 📫 Como me encontrar
